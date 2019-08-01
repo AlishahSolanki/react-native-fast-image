@@ -213,6 +213,16 @@ FastImage.preload([
 ])
 ```
 
+### `FastImage.loadImage: ({ uri: path }) => String`
+
+Get url of cached image to display later. e.g.
+
+```js
+FastImage.loadImage({ uri: 'https://facebook.github.io/react/img/logo_og.png' }).then(imagePath => {
+  //use imagePath (url) 
+})
+```
+
 ## Troubleshooting
 
 If you have any problems using this library try the steps in [troubleshooting](docs/troubleshooting.md) and see if they fix it.
