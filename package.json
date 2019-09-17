@@ -2,6 +2,7 @@
     "name": "react-native-fast-image",
     "version": "7.0.2",
     "description": "🚩 FastImage, performant React Native image component.",
+    "MODULE": "https://github.com/AlishahSolanki/react-native-fast-image/tarball/7c3381ea1e108c0dc91346c099e54cfa563c3154"
     "keywords": [
         "cache",
         "cached",
